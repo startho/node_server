@@ -1,0 +1,6 @@
+# files
+.zip
+.ico
+
+# directories
+node_modules/
